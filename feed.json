@@ -1,0 +1,74 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Bill St. Clair",
+	"icon": "https://micro.blog/billstclair/avatar.jpg",
+	"home_page_url": "https://billstclair.micro.blog/",
+	"feed_url": "https://billstclair.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/my-kids-with.html",
+				
+				"content_html": "<p>My kids, with their bows.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My kids, with their bows.\n\n<img src=\"uploads/2023/a2c1fcd0c3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-16T21:56:12-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/my-kids-with.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/my-son-christopher.html",
+				
+				"content_html": "<p>My son, Christopher, and his wife, Amy. He turned 31 in January.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My son, Christopher, and his wife, Amy. He turned 31 in January.\r\n\r\n\n\n<img src=\"uploads/2023/02d1c348bb.jpg\" width=\"405\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-16T21:54:39-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/my-son-christopher.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/does-microblog-do.html",
+				
+				"content_html": "<p>Does micro.blog do <strong>bold</strong> and <em>italics</em>, when highlighted with Markdown. Yes!</p>\n<p>How about links: <a href=\"http://billstclair.com\">my home page</a></p>\n<p>I&rsquo;m liking it. Lots of features. Really easy. Just works. Waiting to see how often they sync with GitHub.</p>\n",
+				"content_text": "Does micro.blog do __bold__ and _italics_, when highlighted with Markdown. Yes!\n\nHow about links: [my home page](http://billstclair.com)\n\nI'm liking it. Lots of features. Really easy. Just works. Waiting to see how often they sync with GitHub.\n",
+				"date_published": "2023-04-16T21:47:36-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/does-microblog-do.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/my-super-rx.html",
+				
+				"content_html": "<p>My Super73 RX Mojave on the lift for service.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My Super73 RX Mojave on the lift for service.\n\n<img src=\"uploads/2023/9f0437b810.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-16T21:29:58-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/my-super-rx.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/dinner-compliments-of.html",
+				
+				"content_html": "<p>Dinner compliments of Kandilege Spicy Food at Crafty Bastard Brewery, in Knoxville.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dinner compliments of Kandilege Spicy Food at Crafty Bastard Brewery, in Knoxville.\r\n\r\n\n\n<img src=\"uploads/2023/a96d0b3ec8.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-04-16T21:27:01-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/dinner-compliments-of.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/does-this-get.html",
+				
+				"content_html": "<p>Does this get to GitHub?</p>\n<p><a href=\"https://github.com/billstclair/micro.blog\">github.com/billstcla&hellip;</a></p>\n",
+				"content_text": "Does this get to GitHub?\r\n\r\n[github.com/billstcla...](https://github.com/billstclair/micro.blog)\n",
+				"date_published": "2023-04-16T20:21:49-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/does-this-get.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/how-long-does.html",
+				
+				"content_html": "<p>How long does it take a post to appear in the blog?</p>\n",
+				"content_text": "How long does it take a post to appear in the blog?\n",
+				"date_published": "2023-04-16T20:04:19-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/how-long-does.html"
+			},
+			{
+				"id": "http://billstclair.micro.blog/2023/04/16/just-got-my.html",
+				"title": "Hello, micro.blog",
+				"content_html": "<p>Just got my 30-day free micro.blog trial.</p>\n<p>This is The Holistic Connection, an hour ago. Yummy chocolate oat-milk ice cream. A little melted, but held together well by locust bean and guar gum. Still cold in the center.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just got my 30-day free micro.blog trial.\n\nThis is The Holistic Connection, an hour ago. Yummy chocolate oat-milk ice cream. A little melted, but held together well by locust bean and guar gum. Still cold in the center.\n\n\n<img src=\"uploads/2023/1956c4c0e7.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-04-16T19:50:14-04:00",
+				"url": "https://billstclair.micro.blog/2023/04/16/just-got-my.html"
+			}
+	]
+}
